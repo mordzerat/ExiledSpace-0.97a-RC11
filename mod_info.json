@@ -2,9 +2,9 @@
 	"id":"pt_exiledSpace",
 	"name":"Exiled Space",
 	"author":"PureTilt",
-	"version":"0.1.4",
+	"version":"0.1.4a",
 	"description":"PoE maps in Starsector",
-	"gameVersion":"0.96",
+	"gameVersion":"0.96a-RC10",
     "dependencies": [
     ],
 	"jars":["jars/ExiledSpace.jar"],
