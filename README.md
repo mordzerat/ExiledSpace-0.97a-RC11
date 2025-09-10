@@ -1,5 +1,5 @@
-# ExiledSpace-0.96a-RC10
-This version of the mod is for 0.97a-RC11, with JRE 8.
+# ExiledSpace-0.98a-RC8
+This version of the mod is for 0.98a-RC8, with JRE 8.
 
 JRE 8 must be installed over the JRE 7 that Starsector uses.
 
